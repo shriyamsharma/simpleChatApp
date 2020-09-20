@@ -1,0 +1,6 @@
+
+#chatroom { 
+    overflow-y: scroll;
+    max-height: 360px;
+    height: 360px;
+}
